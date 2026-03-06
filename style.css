@@ -5,3 +5,8 @@
 .font_bangla{
     font-family: "Open Sans", sans-serif;
 }
+
+.activeBtn{
+    background-color: #422AD5;
+    color: white;
+}
